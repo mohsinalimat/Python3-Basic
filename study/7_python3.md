@@ -1,7 +1,7 @@
 # 7_Python3
 
 ---
-## numbers, 2의 보수, 부동 소수점(floating point number)
+## numbers, 2의 보수, 부동 소수점(floating point number), 2, 10, 16 진수 변환
 
 1. [floating point number 자료(Reference: https://github.com/ythwork)](/image/numbers.pdf)
 

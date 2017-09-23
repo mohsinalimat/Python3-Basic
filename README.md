@@ -28,7 +28,7 @@
 > 
 > 2. [컴퓨터의 수 표현](study/7_python3.md)
 > 
-> 3. [numbers,부동 소수점(floating point number), 2의 보수](study/8_python3.md)
+> 3. [numbers,부동 소수점(floating point number), 2의 보수, 2,10,16 진수 변환](study/8_python3.md)
 
 
 ---
