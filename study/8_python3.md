@@ -1,6 +1,7 @@
 # 8_Python
 
 ---
+**Reference: <https://github.com/ythwork>**
 
 ## ASCII, unicode
 

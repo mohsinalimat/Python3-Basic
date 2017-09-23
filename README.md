@@ -9,7 +9,7 @@
 
 ###   **Part 1**
 
-> 1. [How to install Python3 (References: http://www.ulgoon.com)](/image/How-to-install-python.pdf)
+> 1. [How to install Python3](/image/How-to-install-python.pdf)
 > 
 > 2. [Variable, Data Type(number, String, List, Tuple, Dictionary, Set)](/study/1_python3.md)
 > 
