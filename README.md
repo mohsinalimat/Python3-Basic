@@ -25,7 +25,10 @@
 ### **Part 2**
 
 > 1. [Call By Value, Call By Reference](/study/6_python3.md)
-
+> 
+> 2. [컴퓨터의 수 표현](study/7_python3.md)
+> 
+> 3. [미완성......](study/8_python3.md)
 
 
 ---
