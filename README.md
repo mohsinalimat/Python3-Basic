@@ -1,8 +1,5 @@
 ![screen](https://user-images.githubusercontent.com/30401511/30725689-77e7eb5a-9f81-11e7-8fdc-81e94ab401b7.png)
 
-# Python3 
-
-
 --- 
 
 
@@ -18,7 +15,7 @@
 > 
 > 3. [Func, File I/O, Error Handle](/study/2_python3.md)
 > 
-> 4. [미완성..](/study/3_python3.md)
+> 4. [Lambda, Map, Filter, Reduce, Layz Evaluation](/study/3_python3.md)
 
 
 
