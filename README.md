@@ -30,7 +30,8 @@
 > 
 > 3. [ASCII, Unicode](study/8_python3.md)
 > 
-> 4. [aaa](study/9_python3.md)
+> 4. [미완성...](study/9_python3.md)
+> 
 
 
 ---
