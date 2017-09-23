@@ -1,0 +1,63 @@
+1503555379725	geckodriver	INFO	geckodriver 0.18.0
+1503555379728	geckodriver	INFO	Listening on 127.0.0.1:60775
+1503555380778	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503555381357	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:16:22.541 plugin-container[3282:192475] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:16:22.543 plugin-container[3282:192475] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503555382717	Marionette	INFO	Listening on port 60808
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503555382762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503555382797	Marionette	DEBUG	loaded listener.js
+1503555388157	geckodriver	INFO	geckodriver 0.18.0
+1503555388161	geckodriver	INFO	Listening on 127.0.0.1:61050
+1503555389211	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503555389750	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:16:30.883 plugin-container[3286:193464] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:16:30.884 plugin-container[3286:193464] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503555391090	Marionette	INFO	Listening on port 61084
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503555391188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503555391223	Marionette	DEBUG	loaded listener.js
+1503555391238	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503555391690	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503555391690	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503555392041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/"
+1503555392665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503555392667	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/"
+1503555392681	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/"
+1503555393007	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/"
+2017-08-24 15:16:38.595 firefox-bin[3281:192385] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x11b8d0fa0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1503555600160	geckodriver	INFO	geckodriver 0.18.0
+1503555600164	geckodriver	INFO	Listening on 127.0.0.1:49872
+1503555601214	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503555601784	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:20:02.890 plugin-container[3307:199555] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:20:02.891 plugin-container[3307:199555] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503555603031	Marionette	INFO	Listening on port 49904
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503555603096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503555603129	Marionette	DEBUG	loaded listener.js
+1503555603144	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503555603586	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503555603586	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503555603928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/"
+1503555604514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503555604518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/"
+1503555604529	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/"
+1503555604855	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/"
+1503555608576	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/"
+1503555608760	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/"
+1503555608762	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/"
+1503555609016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503555609415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8&oq=%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8&gs_l=psy-ab.12...4389.4403.0.4440.6.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..6.0.0.zlHrpl1JBBs"
+1503555609737	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503555609742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8&oq=%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8&gs_l=psy-ab.12...4389.4403.0.4440.6.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..6.0.0.zlHrpl1JBBs"
+1503555609744	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8&oq=%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8&gs_l=psy-ab.12...4389.4403.0.4440.6.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..6.0.0.zlHrpl1JBBs"
+1503555610316	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8&oq=%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8&gs_l=psy-ab.12...4389.4403.0.4440.6.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..6.0.0.zlHrpl1JBBs"
+2017-08-24 15:22:34.872 firefox-bin[3306:199441] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x116873e20 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
