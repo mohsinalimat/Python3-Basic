@@ -14,9 +14,11 @@
 
 > 1. [How to install Python3 (References: http://www.ulgoon.com)](/image/How-to-install-python.pdf)
 > 
-> 2. [Variable, Data Type(number, String, List, Tuple, Dictionary, Set)](/study/1_python3)
+> 2. [Variable, Data Type(number, String, List, Tuple, Dictionary, Set)](/study/1_python3.md)
 > 
-> 3. [Func, File I/O, Error Handle](/study/2_python3)
+> 3. [Func, File I/O, Error Handle](/study/2_python3.md)
+> 
+> 4. [미완성..](/study/3_python3.md)
 
 
 
