@@ -24,6 +24,8 @@
 
 ### **Part 2**
 
+> 1. [Call By Value, Call By Reference](/study/6_python3.md)
+
 
 
 ---
@@ -45,6 +47,7 @@
 ---
 
 #Reference 
+
 [PythonTutuor](http://pythontutor.com/visualize.html#mode=edit)
 
 [점프 투 파이썬 E-book](https://wikidocs.net/book/1)
