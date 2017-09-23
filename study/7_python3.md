@@ -3,6 +3,7 @@
 ---
 ## numbers, 2의 보수, 부동 소수점(floating point number)
 
+1. [floating point number 자료(Reference: https://github.com/ythwork)](/image/numbers.pdf)
 
 ---
 ## number
