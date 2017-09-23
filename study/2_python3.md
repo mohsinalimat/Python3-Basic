@@ -39,7 +39,7 @@ print(awe_sum(a,b)) # 5
  	 - keyword arguments(여러가지 ketword 인자를 받을수 있다.)
 
 
-```pytonh
+```python
 
 # function without input 
 
