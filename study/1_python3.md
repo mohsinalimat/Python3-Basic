@@ -1,7 +1,7 @@
 # 1_Python3 
 
 ---
-## Variable, Data Type(List, tuple)
+## Variable, Data Type(number, String, List, Tuple, Dictionary, Set)
 
 ---
 
@@ -137,6 +137,41 @@ print(list) # []
 
 정렬, 특정값 빼오기 등 여러가지 함수의 기능을 사용할수도 있습니다.
 
+
+
+```
+ 
+ - list Comprehension
+
+```python
+
+# 리스트를 선언 한다
+
+old_list = [1, 2, 3, 4, 5,]
+
+doubled_list = []
+for i in old_list:
+	doubled_list.append(i * 2)
+
+# 위의 리스트를 list comprehension 을 사용하면
+
+old_list = [1, 2, 3, 4, 5,]
+
+doubled_list = [i * 2 for i in old_list] 
+한줄로 요약할수있다.
+
+# for, if 도 요약할수 있다. 
+
+old_list = [1, 2, 3, 4, 5,]
+
+doubled_list = []
+for i in old_list:
+	if i % 2 == 0:
+		doubled_list.append(i * 2)
+		
+# List comprehension 을 사용하면, 
+		
+doubled_list = [i * 2 for i in old_list if i % 2 == 0]		
 
 
 ```
