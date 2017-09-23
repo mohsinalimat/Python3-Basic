@@ -7,7 +7,7 @@
 
 # Learning Table(17.7.21 ~ 17.8.25)
 
-### *  **Part 1**
+###   **Part 1**
 
 > 1. [How to install Python3 (References: http://www.ulgoon.com)](/image/How-to-install-python.pdf)
 > 
@@ -16,6 +16,13 @@
 > 3. [Func, File I/O, Error Handle](/study/2_python3.md)
 > 
 > 4. [Lambda, Map, Filter, Reduce, Layz Evaluation](/study/3_python3.md)
+> 
+> 5. [First Function, Closure, Decorator](/study/4_python3.md)
+> 
+> 6. [literator, generator](/study/5_python3.md)
+> 
+
+### **Part 2**
 
 
 
