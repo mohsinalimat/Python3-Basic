@@ -30,7 +30,7 @@
 > 
 > 3. [ASCII, Unicode](study/8_python3.md)
 > 
-> 4. [미완성...](study/9_python3.md)
+> 4. [OOP, Abstraction, Encapsulation, information hidning, Inheritance, Polymorphism](study/9_python3.md)
 > 
 
 
