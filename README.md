@@ -36,7 +36,9 @@
 
 ### **Part 3**
 
-> 1. [미완성.. cpu..](study/11_python3.md)
+> 1. [CPU, Memoey, Cache, Stack Frame, locality, virtual address space,](/study/11_python3.md)
+> 
+> 2. [미완성..](/study/12_python3.md)
 
 
 ---

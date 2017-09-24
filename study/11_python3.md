@@ -2,11 +2,11 @@
 
 **Reference: <https://github.com/ythwork>**
 
-[CPU 동작원리 youtube 설명](https://www.youtube.com/watch?v=cNN_tTXABUA&t=569s)
+**[CPU 동작원리 youtube 설명](https://www.youtube.com/watch?v=cNN_tTXABUA&t=569s)**
 
 ---
 
-## CPU, Memoey, Cache, Stack Frame, 
+## CPU, Memoey, Cache, Stack Frame, locality, virtual address space, 
 
 ---
 
@@ -41,14 +41,16 @@
     
 
 
-[CPU clock image](/image/cpu.pdf)
+**[CPU clock image](/image/cpu.pdf)**
 
 
 ---
 
 ## Memory
 
-[Memory image](/image/memory.pdf)
+**[Memory image](/image/memory.pdf)**
+
+**[Stackframe.pdf image](/image/stackframe.pdf)**
 
 
 ---
@@ -92,6 +94,11 @@
     - 함수 호출 시 스택 프레임 생성
   - heap
     - 할당과 해제를 프로그래머가 결정
+
+    
+
+**[Virtual Memory.PDF](virtual_memory.pdf)**
+
 ---
 ## example code
 ```C
