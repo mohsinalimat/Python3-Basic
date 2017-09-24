@@ -38,7 +38,9 @@
 
 > 1. [CPU, Memoey, Cache, Stack Frame, locality, virtual address space,](/study/11_python3.md)
 > 
-> 2. [미완성..](/study/12_python3.md)
+> 2. [procedural programming, OS, process scheduling, scheduler, Thread, Race condition, mutual exclusion](/study/12_python3.md)
+> 
+> 3. [미완성...](/study/13_python3.md)
 
 
 ---
