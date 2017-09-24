@@ -30,23 +30,29 @@
     - CU에서 인스트럭션을 해석
   - execution 
     - 해석된 인스트럭션을 실행
-
 <p align="center">
 
 ![screen](/image/cpu.pdf)
 
 </p>
+
 ---
 
 ## memoey 
 
-<p align="center">
+
+
 
 ![screen](/image/memory.pdf)
 
-</p>
 
 ---
+
+
+
+
+
+
 
 ## cache
   - cache hit
