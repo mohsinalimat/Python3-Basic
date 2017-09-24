@@ -41,9 +41,14 @@
     
 
 
-![screen](/image/cpu.pdf)
+[CPU clock image](/image/cpu.pdf)
 
 
+---
+
+## Memory
+
+[Memory image](/image/memory.pdf)
 
 
 ---
