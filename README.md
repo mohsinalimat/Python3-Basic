@@ -34,6 +34,10 @@
 > 
 > 5. [Class, constructor, destructor, instance method, class member, message passing](study/10_python3.md)
 
+### **Part 3**
+
+> 1. [미완성.. cpu..](study/11_python3.md)
+
 
 ---
 
