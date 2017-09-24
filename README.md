@@ -32,6 +32,7 @@
 > 
 > 4. [OOP, Abstraction, Encapsulation, information hidning, Inheritance, Polymorphism](study/9_python3.md)
 > 
+> 5. [Class, constructor, destructor, instance method, class member, message passing](study/10_python3.md)
 
 
 ---
