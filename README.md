@@ -40,7 +40,9 @@
 > 
 > 2. [procedural programming, OS, process scheduling, scheduler, Thread, Race condition, mutual exclusion](/study/12_python3.md)
 > 
-> 3. [미완성...](/study/13_python3.md)
+> 3. [interpreter vs compile](/study/13_python3.md)
+> 
+> 4. [미완성...data structure](/study/14_python3.md)
 
 
 ---
