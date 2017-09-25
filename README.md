@@ -42,7 +42,9 @@
 > 
 > 3. [interpreter vs compile](/study/13_python3.md)
 > 
-> 4. [미완성...data structure](/study/14_python3.md)
+> 4. [DataStructure Intro](/study/14_python3.md)
+> 
+> 5. [미완성..linerSerach, binarySearch](/study/15_python3.md)
 
 
 ---
