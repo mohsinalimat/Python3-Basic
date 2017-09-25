@@ -41,10 +41,15 @@
 > 2. [procedural programming, OS, process scheduling, scheduler, Thread, Race condition, mutual exclusion](/study/12_python3.md)
 > 
 > 3. [interpreter vs compile](/study/13_python3.md)
+
+### **Part 4(Data Structure)** 
+
+> 1. [DataStructure Intro](/study/14_python3.md)
 > 
-> 4. [DataStructure Intro](/study/14_python3.md)
+> 2. [linearSerach, binarySearch](/study/15_python3.md)
 > 
-> 5. [미완성..linerSerach, binarySearch](/study/15_python3.md)
+> 3. [linked_list](/study/16_python3.md)
+
 
 
 ---
