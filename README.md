@@ -56,7 +56,11 @@
 
 ### **Part 5**  
 
-> 1. [작성중..네트워크](/study/19_python3.md)
+> 1. [networt basic-1](/study/19_python3.md)
+> 
+> 2. [socket io in python](/study/20_python3.md)
+> 
+> 3. [작성중..... networt basic-2](/study/21_python3.md)
 
 
 

@@ -1,8 +1,12 @@
 # 19_Python3
 
+
+### Reference
+
+### [자료 출처: ulgoon님 github](https://github.com/ulgoon)
+
 ---
 
-## 네트워크.. 작성중 
 
 
 ### Network Basic (1)
