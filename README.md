@@ -48,7 +48,7 @@
 > 
 > 2. [linearSerach, binarySearch](/study/15_python3.md)
 > 
-> 3. [linked_list](/study/16_python3.md)
+> 3. [작성중...linked_list](/study/16_python3.md)
 
 
 
@@ -70,7 +70,7 @@
 
 ---
 
-#Reference 
+# Reference 
 
 [PythonTutuor](http://pythontutor.com/visualize.html#mode=edit)
 
