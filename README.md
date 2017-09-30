@@ -50,7 +50,9 @@
 > 
 > 3. [linked_list](/study/16_python3.md)
 > 
-> 4. [작성중..BTS(BinaryTreeSearch)](/study/17_python3.md)
+> 4. [BT(BinaryTree), BTS(BinaryTreeSearch)](/study/17_python3.md)
+> 
+> 5. [작성중..bubbleSort, QuickSort, BigO,](/study/18_python3.md)
 
 
 
