@@ -158,7 +158,9 @@ while n1.findData() != None :
     print(n1.current.data)
     
 # removeData 사용방법은, 현재 current가 가르키는 곳을 삭제함!
-        
+
+n1.findData() 사용후, 지우고 싶은 값이 나오면
+n1.removeData() 하고, 삭제 되었는지 확인한다
      
  
  ```
