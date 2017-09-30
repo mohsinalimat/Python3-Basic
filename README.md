@@ -60,7 +60,11 @@
 > 
 > 2. [socket io in python](/study/20_python3.md)
 > 
-> 3. [작성중..... networt basic-2](/study/21_python3.md)
+> 3. [networt basic-2(Only PDF)](/study/21_python3.md)
+> 
+> 4. [Beautiful Soup, Selenium dataBase(Only PDF)](/study/22_python3.md)
+> 
+> 5. [SoftwareEngineering(Only PDF)](/study/23_python3.md)
 
 
 
@@ -70,7 +74,7 @@
 # QnA
 
 
-1. 
+1. Selenium 사용법 조금더 알아보고, web Crawling 연습해보자.
 
 2. 
  
