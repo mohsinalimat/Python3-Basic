@@ -52,7 +52,11 @@
 > 
 > 4. [BT(BinaryTree), BTS(BinaryTreeSearch)](/study/17_python3.md)
 > 
-> 5. [작성중..bubbleSort, QuickSort, BigO,](/study/18_python3.md)
+> 5. [bubbleSort, QuickSort, BigO, recursion ,Stack, Queue](/study/18_python3.md)
+
+### **Part 5**  
+
+> 1. [작성중..네트워크](/study/19_python3.md)
 
 
 
