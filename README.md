@@ -103,5 +103,5 @@
 
 
 
-### **:envelope:**  : <juuminjun@gmail.com>
+### **:envelope:**  : <devminjunju@gmail.com>
 
