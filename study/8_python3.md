@@ -187,4 +187,4 @@ b'\xed\x8c\x8c\xec\x9d\xb4\xec\x8d\xac' # 한 글자당 3byte
 >>> string = coded_string.decode()
 >>> string
 "파이썬"
-```
+``
