@@ -4,7 +4,7 @@
 
 
 
-# Learning Table(17.7.21 ~ 17.8.25)
+# Learning Table(17.7.21 ~ 17.8.25) 
 
 ###   **Part 1**
 
