@@ -18,17 +18,17 @@
 
 ### **Part 2**
 
-> 1. [Call By Value, Call By Reference](/study/6_python3.md)
-> 2. [numbers,부동 소수점(floating point number), 2의 보수, 2,10,16 진수 변환](study/7_python3.md)
-> 3. [ASCII, Unicode](study/8_python3.md)
-> 4. [OOP, Abstraction, Encapsulation, information hidning, Inheritance, Polymorphism](study/9_python3.md)
-> 5. [Class, constructor, destructor, instance method, class member, message passing](study/10_python3.md)
+> 1. [Call By Value, Call By Reference](/Part_2/6_CallByaValue-CallByReference.md)
+> 2. [numbers,부동 소수점(floating point number), 2의 보수, 2,10,16 진수 변환](/Part_2/7_FloatingPointNumber.md)
+> 3. [ASCII, Unicode](/Part_2/8_ASCII-Unicode.md)
+> 4. [OOP, Abstraction, Encapsulation, information hidning, Inheritance, Polymorphism](/Part_2/9_OOP.md)
+> 5. [Class, constructor, destructor, instance method, class member, message passing](/Part_2/10_Class.md)
 
 ### **Part 3**
 
-> 1. [CPU, Memoey, Cache, Stack Frame, locality, virtual address space,](/study/11_python3.md)
-> 2. [procedural programming, OS, process scheduling, scheduler, Thread, Race condition, mutual exclusion](/study/12_python3.md)
-> 3. [interpreter vs compile](/study/13_python3.md)
+> 1. [CPU, Memoey, Cache, Stack Frame, locality, virtual address space,](/Part_3/11_CPU-Memory-Cache-StackFrame-Virtual_Address_Space.md)
+> 2. [procedural programming, OS, process scheduling, scheduler, Thread, Race condition, mutual exclusion](/Part_3/12_Procedural-OS-Thread-Race_condition-Mutual_Exclusion.md)
+> 3. [interpreter vs compile](/Part_3/13_interpreter-compile.md)
 
 ### **Part 4(Data Structure)** 
 
