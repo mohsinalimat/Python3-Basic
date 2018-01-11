@@ -40,11 +40,11 @@
 
 ### **Part 5**  
 
-> 1. [networt basic-1](/study/19_python3.md)
-> 2. [socket io in python](/study/20_python3.md)
-> 3. [networt basic-2(Only PDF)](/study/21_python3.md)
-> 4. [Beautiful Soup, Selenium dataBase(Only PDF)](/study/22_python3.md)
-> 5. [SoftwareEngineering(Only PDF)](/study/23_python3.md)
+> 1. [networt basic-1](/Part_5/19_Network_Basic.md)
+> 2. [socket io in python](/Part_5/20_Network_Basic-1.md)
+> 3. [networt basic-2(Only PDF)](/Part_5/21_Network_basic-2.md)
+> 4. [Beautiful Soup, Selenium dataBase(Only PDF)](/Part_5/22_DataBase.md)
+> 5. [SoftwareEngineering(Only PDF)](/Part_5/23_SoftwareEnginnering.md)
 
 ---
 
