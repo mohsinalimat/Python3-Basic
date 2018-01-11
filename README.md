@@ -32,11 +32,11 @@
 
 ### **Part 4(Data Structure)** 
 
-> 1. [DataStructure Intro](/study/14_python3.md)
-> 2. [linearSerach, binarySearch](/study/15_python3.md)
-> 3. [linked_list](/study/16_python3.md)
-> 4. [BT(BinaryTree), BTS(BinaryTreeSearch)](/study/17_python3.md)
-> 5. [bubbleSort, QuickSort, BigO, recursion ,Stack, Queue](/study/18_python3.md)
+> 1. [DataStructure Intro](/Part_4/14_DataStructure.md)
+> 2. [linearSerach, binarySearch](/Part_4/15_linearSearch-binarySearch-Big_O.md)
+> 3. [linked_list](/study/16_linked_list.md)
+> 4. [BT(BinaryTree), BTS(BinaryTreeSearch)](/Part_4/17_BST.md)
+> 5. [bubbleSort, QuickSort, BigO, recursion ,Stack, Queue](/Part_4/18_BubbleSort-QuickSort-Big_O-Recursion-Stack-Queue.md)
 
 ### **Part 5**  
 
