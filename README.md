@@ -60,5 +60,5 @@
 
 
 
-### **:envelope:**  : <devminjunju@gmail.com>
+### **:envelope:**  : <dev.mjun@gmail.com>
 
